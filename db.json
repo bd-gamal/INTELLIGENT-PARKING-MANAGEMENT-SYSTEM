@@ -15,6 +15,14 @@
       "entryTime": "2026-01-08T10:00:00Z",
       "exitTime": null,
       "slotNumber": 2
+    },
+    {
+      "id": "45f4",
+      "plateNumber": "123-AB-61",
+      "type": "camion",
+      "entryTime": "2026-01-09T14:16:41.402Z",
+      "exitTime": null,
+      "slotNumber": 2
     }
   ],
   "places": [
@@ -26,7 +34,7 @@
     {
       "id": "2",
       "number": 2,
-      "occupied": false
+      "occupied": true
     }
   ]
 }
